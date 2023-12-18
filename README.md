@@ -1,3 +1,6 @@
+<img src="oneeye.png" alt="This is an eye" width="300" height="200">
+
+
 # Eye Exercise
 This project utilizes the Document Object Model (DOM) to create an interactive experience where a pair of eyes follow the movement of the mouse cursor across the screen.
 
